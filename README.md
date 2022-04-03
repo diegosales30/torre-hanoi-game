@@ -1,2 +1,5 @@
 # torre-hanoi-game
-game baseado na torre de hanoi, desenvolvido com html,css e js (dom)
+
+Game torre de hanoi desenvolvido com DOM
+
+CLIQUE PARA TESTAR  --> https://diegosales30.github.io/torre-hanoi-game/
